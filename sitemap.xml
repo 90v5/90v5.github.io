@@ -3,46 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://90v5.github.io/</loc>
+    <loc>https://90v5.com/</loc>
     <lastmod>2019-07-27T21:56:55+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://90v5.github.io/about/</loc>
+    <loc>https://90v5.com/about/</loc>
     <lastmod>2019-07-27T21:56:55+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://90v5.github.io/tags/</loc>
+    <loc>https://90v5.com/tags/</loc>
     <lastmod>2019-07-27T00:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://90v5.github.io/posts/helloworld/</loc>
+    <loc>https://90v5.com/posts/helloworld/</loc>
     <lastmod>2019-07-27T00:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://90v5.github.io/posts/</loc>
-    <lastmod>2019-07-27T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://90v5.github.io/tags/</loc>
+    <loc>https://90v5.com/posts/</loc>
     <lastmod>2019-07-27T00:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://90v5.github.io/categories/</loc>
+    <loc>https://90v5.com/tags/</loc>
+    <lastmod>2019-07-27T00:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://90v5.github.io/series/</loc>
+    <loc>https://90v5.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://90v5.com/series/</loc>
     <priority>0</priority>
   </url>
   
